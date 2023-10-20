@@ -1,0 +1,13 @@
+INFO:root:<socket.socket fd=1060, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 65535), raddr=('127.0.0.1', 54134)> connected to server with address ('127.0.0.1', 54134) and nickname Simba
+INFO:root:<socket.socket fd=1060, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 65535), raddr=('127.0.0.1', 54134)> sent message
+INFO:root:<socket.socket fd=1060, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 65535), raddr=('127.0.0.1', 54134)> sent message
+INFO:root:<socket.socket fd=1032, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 65535), raddr=('127.0.0.1', 54139)> connected to server with address ('127.0.0.1', 54139) and nickname meme
+INFO:root:<socket.socket fd=1032, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 65535), raddr=('127.0.0.1', 54139)> sent message
+INFO:root:<socket.socket fd=1032, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 65535), raddr=('127.0.0.1', 54139)> sent message
+INFO:root:<socket.socket fd=1032, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 65535), raddr=('127.0.0.1', 54139)> sent message
+INFO:root:<socket.socket fd=1060, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 65535), raddr=('127.0.0.1', 54134)> sent message
+INFO:root:<socket.socket fd=1060, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 65535), raddr=('127.0.0.1', 54134)> sent message
+INFO:root:<socket.socket fd=1060, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 65535), raddr=('127.0.0.1', 54134)> sent message
+INFO:root:<socket.socket fd=1032, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 65535), raddr=('127.0.0.1', 54139)> sent message
+INFO:root:<socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0> with nickname meme disconnected from chat
+INFO:root:<socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0> with nickname Simba disconnected from chat
